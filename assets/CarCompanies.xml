@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<CarParentCompanies>
+	<parentCompany>
+		<name>Ford Motor Company</name>
+		<company>
+			<name>Ford</name>
+			<car>
+				<model>mustang</model>
+				<year>2020</year>
+				<fuel>diesel</fuel>
+				<price>40000</price>
+			</car>
+			<car>
+				<model>fiesta</model>
+				<year>2014</year>
+				<fuel>diesel</fuel>
+				<price>5000</price>
+			</car>
+			<car>
+				<model>f150</model>
+				<year>2017</year>
+				<fuel>diesel</fuel>
+				<price>20000</price>
+			</car>
+		</company>
+	</parentCompany>
+	<parentCompany>
+		<name>Toyota Group</name>
+		<company>
+			<name>Toyota</name>
+			<car>
+				<model>prius</model>
+				<year>2012</year>
+				<fuel>electric</fuel>
+				<price>9000</price>
+			</car>
+			<car>
+				<model>supra</model>
+				<year>1998</year>
+				<fuel>diesel</fuel>
+				<price>100000</price>
+			</car>
+		</company>
+	</parentCompany>
+	<parentCompany>
+		<name>Tesla Inc.</name>
+		<company>
+			<name>Tesla</name>
+			<car>
+				<model>model y</model>
+				<year>2020</year>
+				<fuel>electric</fuel>
+				<price>50000</price>
+			</car>
+			<car>
+				<model>model s</model>
+				<year>2021</year>
+				<fuel>electric</fuel>
+				<price>30000</price>
+			</car>
+		</company>
+	</parentCompany>
+	<parentCompany>
+		<name>Volkswagen Group</name>
+		<company>
+			<name>Volkswagen</name>
+			<car>
+				<model>id3</model>
+				<year>2019</year>
+				<fuel>electric</fuel>
+				<price>39000</price>
+			</car>
+			<car>
+				<model>up</model>
+				<year>2013</year>
+				<fuel>electric</fuel>
+				<price>8500</price>
+			</car>
+			<car>
+				<model>golf 4</model>
+				<year>1997</year>
+				<fuel>diesel</fuel>
+				<price>2000</price>
+			</car>
+			<car>
+				<model>golf 5</model>
+				<year>2012</year>
+				<fuel>diesel</fuel>
+				<price>3000</price>
+			</car>
+		</company>
+		<company>
+			<name>Audi</name>
+			<car>
+				<model>r8</model>
+				<year>2018</year>
+				<fuel>diesel</fuel>
+				<price>166000</price>
+			</car>
+		</company>
+	</parentCompany>
+	<parentCompany>
+		<name>Renault-Nissan-Mitsubishi</name>
+		<company>
+			<name>Nissan</name>
+			<car>
+				<model>altima</model>
+				<year>2016</year>
+				<fuel>diesel</fuel>
+				<price>15600</price>
+			</car>
+		</company>
+	</parentCompany>
+</CarParentCompanies>
+	
